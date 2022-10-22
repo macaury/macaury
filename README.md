@@ -1,26 +1,31 @@
-## Topicos 
+<p align="center">
+ <h1 align="center" > Bem vindo(a) ! </h1>
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64115668/197320670-ad9f3fa0-36cc-4baa-b40c-197ad3865204.gif"/>
+</p>
 
-- [ About Me](#About-me)
-- [👨‍💻 Trilha sonora](#Trilha-sonora)
-- [🖥️ Contatos](#Contatos)
-- [📼 Ferramentas de dominio e estudos](#Ferramentas-de-dominio-e-estudos)
-- [🌐 Estatisticas do meu GitHub](#Estatisticas-do-meu-GitHub)
-- [📁 Obrigado por visitar meu GitHub](#Obrigado-por-visitar-meu-GitHub)
+## Tópicos 
+
+- [💬 About Me](#About-me)
+- [🎧 Trilha sonora](#Trilha-sonora)
+- [📞 Contatos](#Contatos)
+- [⚒️ Ferramentas de dominio e estudos](#Ferramentas-de-dominio-e-estudos)
+- [📊 Estatisticas do meu GitHub](#Estatisticas-do-meu-GitHub)
+- [❤️ Obrigado por visitar meu GitHub](#Obrigado-por-visitar-meu-GitHub)
 
 
 # About me
 
-⚡️ *Fun fact : Meu teclado eh EUA , entao voces nao verao pontuacao por aqui,e eu quero "adaptar" o meu teclado 🙃*
+- ☕ Olá pessoas de Luz, Bem vindo ao meu GitHub!!
 
-☕ Ola pessoas de Luz, Bem vindo ao meu GitHub
+- 👩‍💻 Sou Macaury Carvalho, Programador Front-end, em busca de uma oportunidade de trabalho para desenvolver minhas skills e poder contribuir para a empresa!😁
 
-👩‍💻 Sou Macaury Carvalho, Programador Front-end, em busca de uma oportunidade de trabalho para desenvolver minhas skills e poder contribuir para a empresa!😁
+- 📚 Faço Sistemas de Informação(SI), no Instituto Federal de Educacao, Ciência e Tecnologia do Maranhão. 
 
-📚 Faco Sistemas de Informacao(SI), no Instituto Federal de Educacao, Ciencia e Tecnologia do Maranhao. 
+- 🧠 Intensifiquei meus estudos em ReactJs, e estou deixando meu git mais movimentando 😚
 
-🧠 Intensifiquei meus estudos em ReactJs, e estou deixando meu git mais movimentando 😚
-
-👯‍♀️ Todos os meus projetos estao aberto a colaboracoes e feedbacks
+- 👯‍♀️ Todos os meus projetos estão aberto a colaborações e feedbacks
 
 
 #### Trilha sonora
@@ -36,7 +41,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/#inbox?compose=new)
 
 
-## Ferramentas de dominio e estudos
+## Ferramentas de domínio e estudos
 
 
 [![Git Hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/macaury?tab=repositories)
@@ -48,7 +53,7 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/macaury?tab=repositories)
 
 
-## Estatisticas do meu GitHub
+## Estatísticas do meu GitHub
 
 [![M.Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=macaury&show_icons=true&theme=dracula)](https://github.com/macaury?tab=repositories)
 [![Macaurycarvalho](https://github-readme-stats.vercel.app/api/top-langs/?username=macaury&layout=compact&langs_count=7&theme=dracula)](https://github.com/macaury?tab=repositories)
