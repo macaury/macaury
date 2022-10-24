@@ -62,4 +62,3 @@
 ## Obrigado por visitar meu GitHub
 
 ![Daddy Joel](https://user-images.githubusercontent.com/64115668/197284211-419aff5f-fd30-4782-811e-f94191d2d564.png)
-
