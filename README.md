@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/64115668/197320670-ad9f3fa0-36cc-4baa-b40c-197ad3865204.gif"/>
 </p>
 
-<a href="https://macaury.github.io/Portifolio/"> Visite meu portifolio !</a>
+<a align="center" href="https://macaury.github.io/Portifolio/"> Visite meu portifolio !</a>
 
 
 
