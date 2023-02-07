@@ -5,32 +5,33 @@
 <img src="https://user-images.githubusercontent.com/64115668/197320670-ad9f3fa0-36cc-4baa-b40c-197ad3865204.gif"/>
 </p>
 
-<a align="center" href="https://macaury.github.io/Portifolio/"> Visite meu portifolio !</a>
-
+<h2 align="center">
+<a  href="https://macaury.github.io/Portifolio/"> Visite meu portifolio !</a>
+</h2>
 
 
 ## Tópicos 
 
 
-- [💬 About Me](#About-me)
-- [🎧 Trilha sonora](#Trilha-sonora)
-- [📞 Contatos](#Contatos)
-- [⚒️ Ferramentas de dominio e estudos](#Ferramentas-de-dominio-e-estudos)
-- [📊 Estatisticas do meu GitHub](#Estatisticas-do-meu-GitHub)
-- [❤️ Obrigado por visitar meu GitHub](#Obrigado-por-visitar-meu-GitHub)
+- [About Me](#About-me)
+- [Trilha sonora](#Trilha-sonora)
+- [Contatos](#Contatos)
+- [Ferramentas de dominio e estudos](#Ferramentas-de-dominio-e-estudos)
+- [Estatisticas do meu GitHub](#Estatisticas-do-meu-GitHub)
+- [Obrigado por visitar meu GitHub](#Obrigado-por-visitar-meu-GitHub)
 
 
 # About me
 
-- ☕ Olá pessoas de Luz, Bem vindo ao meu GitHub!!
+- Olá pessoas de Luz, Bem vindo ao meu GitHub!!
 
-- 👩‍💻 Sou Macaury Carvalho, Programador Front-end, em busca de uma oportunidade de trabalho para desenvolver minhas skills e poder contribuir para a empresa!😁
+- Sou Macaury Carvalho, Programador Front-end, em busca de uma oportunidade de trabalho para desenvolver minhas skills e poder contribuir para a empresa!
 
-- 📚 Faço Sistemas de Informação(SI), no Instituto Federal de Educacao, Ciência e Tecnologia do Maranhão. 
+- Faço Sistemas de Informação(SI), no Instituto Federal de Educacao, Ciência e Tecnologia do Maranhão. 
 
-- 🧠 Intensifiquei meus estudos em ReactJs, e estou deixando meu git mais movimentando 😚
+- Intensifiquei meus estudos em ReactJs, e estou deixando meu git mais movimentando.
 
-- 👯‍♀️ Todos os meus projetos estão aberto a colaborações e feedbacks
+- Todos os meus projetos estão aberto a colaborações e feedbacks
 
 
 #### Trilha sonora
@@ -62,8 +63,9 @@
 
 ## Estatísticas do meu GitHub
 
-[![M.Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=macaury&show_icons=true&theme=dracula)](https://github.com/macaury?tab=repositories)
-[![Macaurycarvalho](https://github-readme-stats.vercel.app/api/top-langs/?username=macaury&layout=compact&langs_count=7&theme=dracula)](https://github.com/macaury?tab=repositories)
+[![M.Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=macaury&show_icons=false&theme=dark)](https://github.com/macaury?tab=repositories&count_private=true)
+
+[![Macaurycarvalho](https://github-readme-stats.vercel.app/api/top-langs/?username=macaury&layout=Demo&langs_count=7&theme=dark)](https://github.com/macaury?tab=repositories)
 
 
 ## Obrigado por visitar meu GitHub
