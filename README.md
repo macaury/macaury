@@ -1,11 +1,11 @@
 <p align="center">
 <i>
-welcome to my page
+  welcome to my page !
 </i>
  </br>
  
 <i> 
- I am Macaury Carvalho, currently studying the Python language for web applications.
+ I'm Macaury Carvalho. <br> Currently studying the Python language for web applications.
 </i>
 
 </p>
