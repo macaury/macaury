@@ -5,7 +5,7 @@
  </br>
  
 <i> 
- I'm Macaury Carvalho. <br> Currently studying the Python language for web applications.
+ I'm Macaury Carvalho. <br> 
 </i>
 
 </p>
